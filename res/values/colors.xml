@@ -33,6 +33,6 @@
     <color name="selection_background_color_dark">#FEBB20</color>
     <color name="selection_background_color_light">#FEBB20</color>
 
-    <color name="theme_color">#F29401</color>
+    <color name="theme_color">#FFFFFF</color>
 
 </resources>

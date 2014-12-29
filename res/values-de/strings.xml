@@ -5,7 +5,7 @@
     >
 
     <!-- Activitiy titles -->
-    <string name="app_name">Einschlafen Podcast</string>
+    <string name="app_name">AstronautCAST</string>
     <string name="init_label">Initialisiere</string>
     <string name="downloads_label">Downloads</string>
     <string name="cancel_download_label">Download abbrechen</string>

@@ -21,12 +21,12 @@ public class AppPreferences {
      * update their subscriptions list. Note that changing this list removes all old feeds on existing installations, which
      * means that all downloaded episodes will be deleted, too.
      */
-    public static final String[] feedUrls = {"http://feeds.feedburner.com/EinschlafenPodcastEnhanced?format=xml"};
+    public static final String[] feedUrls = {"http://astronauticast.com/feed"};
 
     /**
      * User-Agent header for HTTP-requests.
      */
-    public final static String USER_AGENT = "EinschlafenPodcastAndroid/1.0";
+    public final static String USER_AGENT = "ACASTAntennaPOD/1.0";
 
     /**
      * As soon as the user installs a second AntennaPod single purpose app, this app will ask the user

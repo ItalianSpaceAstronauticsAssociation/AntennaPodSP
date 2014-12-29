@@ -6,38 +6,38 @@
 
     <!-- Activitiy titles -->
     <string name="app_name">AstronautiCAST</string>
-    <string name="init_label">Initializing</string>
+    <string name="init_label">Inizializzazione</string>
     <string name="downloads_label">Downloads</string>
-    <string name="cancel_download_label">Cancel Download</string>
-    <string name="about_label">About</string>
+    <string name="cancel_download_label">Annulla Download</string>
+    <string name="about_label">Info</string>
 
     <!-- Webview actions -->
-    <string name="open_in_browser_label">Open in browser</string>
-    <string name="copy_url_label">Copy URL</string>
-    <string name="share_url_label">Share URL</string>
-    <string name="copied_url_msg">Copied URL to clipboard.</string>
+    <string name="open_in_browser_label">Apri nel browser</string>
+    <string name="copy_url_label">Copia URL</string>
+    <string name="share_url_label">Condividi URL</string>
+    <string name="copied_url_msg">URL copiato.</string>
 
     <!-- Other -->
-    <string name="confirm_label">Confirm</string>
-    <string name="cancel_label">Cancel</string>
-    <string name="author_label">Author</string>
-    <string name="language_label">Language</string>
-    <string name="podcast_settings_label">Settings</string>
-    <string name="cover_label">Picture</string>
-    <string name="error_label">Error</string>
-    <string name="error_msg_prefix">An error occurred:</string>
-    <string name="refresh_label">Refresh</string>
-    <string name="external_storage_error_msg">No external storage is available. Please make sure that external storage is mounted so that the app can work properly.</string>
-    <string name="chapters_label">Chapters</string>
-    <string name="shownotes_label">Shownotes</string>
-    <string name="description_label">Description</string>
-    <string name="most_recent_prefix">Most Recent Episode:\u0020</string>
+    <string name="confirm_label">Conferma</string>
+    <string name="cancel_label">Annulla</string>
+    <string name="author_label">Autore</string>
+    <string name="language_label">Lingua</string>
+    <string name="podcast_settings_label">Impostazioni</string>
+    <string name="cover_label">Immagine</string>
+    <string name="error_label">Errore</string>
+    <string name="error_msg_prefix">Si è verificato un errore:</string>
+    <string name="refresh_label">Ricarica</string>
+    <string name="external_storage_error_msg">Nessuna disco esterno rilevato. </string>
+    <string name="chapters_label">Capitoli</string>
+    <string name="shownotes_label">Note dell\'episodio</string>
+    <string name="description_label">Descrizione</string>
+    <string name="most_recent_prefix">Episodio più recente:\u0020</string>
     <string name="episodes_suffix">\u0020episodes</string>
     <string name="published_prefix">Published:\u0020</string>
     <string name="length_prefix">Length:\u0020</string>
     <string name="size_prefix">Size:\u0020</string>
     <string name="processing_label">Processing</string>
-    <string name="loading_label">Loading...</string>
+    <string name="loading_label">Caricamento...</string>
     <string name="image_of_prefix">Image of:\u0020</string>
     <string name="save_username_password_label">Save username and password</string>
     <string name="close_label">Close</string>
