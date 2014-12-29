@@ -5,7 +5,7 @@
         "http://feeds.feedburner.com/EinschlafenPodcastEnhanced?format=xml"
         ],
 
-    "user_agent" : "EinschlafenPodcast/1.0",
+    "user_agent" : "AntennaPodACAST/1.0",
     
     "config" : {
         "pauseOnHeadsetDisconnect" : false,
