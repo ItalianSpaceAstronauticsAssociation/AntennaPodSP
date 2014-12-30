@@ -7,8 +7,8 @@
     <!-- Activitiy titles -->
     <string name="app_name">AstronautiCAST</string>
     <string name="init_label">Inizializzazione</string>
-    <string name="downloads_label">Downloads</string>
-    <string name="cancel_download_label">Annulla Download</string>
+    <string name="downloads_label">Scaricamenti</string>
+    <string name="cancel_download_label">Annulla gli scaricamenti</string>
     <string name="about_label">Info</string>
 
     <!-- Webview actions -->
@@ -33,119 +33,119 @@
     <string name="description_label">Descrizione</string>
     <string name="most_recent_prefix">Episodio più recente:\u0020</string>
     <string name="episodes_suffix">\u0020episodes</string>
-    <string name="published_prefix">Published:\u0020</string>
-    <string name="length_prefix">Length:\u0020</string>
-    <string name="size_prefix">Size:\u0020</string>
-    <string name="processing_label">Processing</string>
+    <string name="published_prefix">Pubblicato:\u0020</string>
+    <string name="length_prefix">Lunghezza:\u0020</string>
+    <string name="size_prefix">Dimensione:\u0020</string>
+    <string name="processing_label">Elaborazione</string>
     <string name="loading_label">Caricamento...</string>
-    <string name="image_of_prefix">Image of:\u0020</string>
-    <string name="save_username_password_label">Save username and password</string>
-    <string name="close_label">Close</string>
-    <string name="retry_label">Retry</string>
+    <string name="image_of_prefix">Immagine di:\u0020</string>
+    <string name="save_username_password_label">Salva nome utente e password</string>
+    <string name="close_label">Chiudi</string>
+    <string name="retry_label">Riprova</string>
 
     <!-- Actions on feeds -->
-    <string name="share_link_label">Share website link</string>
-    <string name="share_source_label">Share feed link</string>
+    <string name="share_link_label">Condividi il link al sito</string>
+    <string name="share_source_label">Condividi il link al feed</string>
 
     <!-- actions on feeditems -->
-    <string name="download_label">Download</string>
-    <string name="play_label">Play</string>
-    <string name="pause_label">Pause</string>
+    <string name="download_label">Scarica</string>
+    <string name="play_label">Riproduci</string>
+    <string name="pause_label">Pausa</string>
     <string name="stream_label">Stream</string>
-    <string name="remove_label">Remove</string>
-    <string name="remove_from_queue_label">Remove from Queue</string>
-    <string name="visit_website_label">Visit Website</string>
+    <string name="remove_label">Rimuovi</string>
+    <string name="remove_from_queue_label">Rimuovi dalla coda</string>
+    <string name="visit_website_label">Visita il Sito</string>
 
     <!-- Download messages and labels -->
-    <string name="download_successful">Download successful</string>
-    <string name="download_failed">Download failed</string>
-    <string name="download_pending">Download pending</string>
-    <string name="download_running">Download running</string>
-    <string name="download_error_device_not_found">Storage device not found</string>
-    <string name="download_error_insufficient_space">Insufficient space</string>
-    <string name="download_error_file_error">File error</string>
-    <string name="download_error_http_data_error">HTTP Data Error</string>
-    <string name="download_error_error_unknown">Unknown Error</string>
-    <string name="download_error_parser_exception">Parser Exception</string>
-    <string name="download_error_unsupported_type">Unsupported Feed type</string>
-    <string name="download_error_connection_error">Connection error</string>
-    <string name="download_error_unknown_host">Unknown host</string>
-    <string name="cancel_all_downloads_label">Cancel all downloads</string>
-    <string name="download_cancelled_msg">Download cancelled</string>
-    <string name="download_report_title">Downloads completed</string>
-    <string name="download_error_malformed_url">Malformed URL</string>
-    <string name="download_error_io_error">IO Error</string>
-    <string name="download_error_request_error">Request error</string>
-    <string name="download_error_db_access">Database access error</string>
-    <string name="downloads_left">\u0020Downloads left</string>
-    <string name="download_notification_title">Downloading podcast data</string>
-    <string name="download_report_content">%1$d downloads succeeded, %2$d failed</string>
-    <string name="download_log_title_unknown">Unknown title</string>
+    <string name="download_successful">Scaricamento riuscito</string>
+    <string name="download_failed">Scaricamento fallito failed</string>
+    <string name="download_pending">In attesa di scaricamento</string>
+    <string name="download_running">Scaricamento in corso</string>
+    <string name="download_error_device_not_found">Dispositivo di memoria non trovato</string>
+    <string name="download_error_insufficient_space">Spazio insufficiente</string>
+    <string name="download_error_file_error">Errore di file</string>
+    <string name="download_error_http_data_error">Errore di dati HTTP</string>
+    <string name="download_error_error_unknown">Errore sconosciuto</string>
+    <string name="download_error_parser_exception">Eccezione del parser</string>
+    <string name="download_error_unsupported_type">Tipo di feed non supportato</string>
+    <string name="download_error_connection_error">Errore di connessione</string>
+    <string name="download_error_unknown_host">Server sconosciuto</string>
+    <string name="cancel_all_downloads_label">Annulla tutti gli scaricamenti</string>
+    <string name="download_cancelled_msg">Scaricamento annullato</string>
+    <string name="download_report_title">Scaricamento completato</string>
+    <string name="download_error_malformed_url">URL non valido</string>
+    <string name="download_error_io_error">Errore di IO</string>
+    <string name="download_error_request_error">Errore nella richiesta</string>
+    <string name="download_error_db_access">Errore di accesso al database</string>
+    <string name="downloads_left">\u0020Scaricamenti rimasti</string>
+    <string name="download_notification_title">Scaricamento dei dati del podcast</string>
+    <string name="download_report_content">%1$d scaricamenti completati, %2$d falliti</string>
+    <string name="download_log_title_unknown">Titolo sconosciuto</string>
     <string name="download_type_feed">Feed</string>
-    <string name="download_type_media">Media file</string>
-    <string name="download_type_image">Image</string>
-    <string name="download_request_error_dialog_message_prefix">An error occurred when trying to download the file:\u0020</string>
+    <string name="download_type_media">File media</string>
+    <string name="download_type_image">Immagine</string>
+    <string name="download_request_error_dialog_message_prefix">Si è verificato un errore nel tentativo di scaricare il file:\u0020</string>
 
     <!-- Mediaplayer messages -->
-    <string name="player_error_msg">Error!</string>
-    <string name="player_stopped_msg">No media playing</string>
-    <string name="player_preparing_msg">Preparing</string>
-    <string name="player_ready_msg">Ready</string>
-    <string name="player_seeking_msg">Seeking</string>
-    <string name="playback_error_server_died">Server died</string>
-    <string name="playback_error_unknown">Unknown Error</string>
-    <string name="no_media_playing_label">No media playing</string>
+    <string name="player_error_msg">Errore!</string>
+    <string name="player_stopped_msg">Nessun contenuto in riproduzione</string>
+    <string name="player_preparing_msg">Preparazione</string>
+    <string name="player_ready_msg">Pronto</string>
+    <string name="player_seeking_msg">Posizionamento</string>
+    <string name="playback_error_server_died">Il server è morto</string>
+    <string name="playback_error_unknown">Errore sconosciuto</string>
+    <string name="no_media_playing_label">Nessun contenuto in riproduzione</string>
     <string name="position_default_label">00:00:00</string>
-    <string name="player_buffering_msg">Buffering</string>
-    <string name="playbackservice_notification_title">Playing podcast</string>
-    <string name="playbackservice_notification_content">Tap here for more info</string>
+    <string name="player_buffering_msg">Bufferizzazione</string>
+    <string name="playbackservice_notification_title">Riproduzione del podcast</string>
+    <string name="playbackservice_notification_content">Tocca qui per altre info</string>
 
     <!-- Sleep timer -->
-    <string name="set_sleeptimer_label">Set sleep timer</string>
-    <string name="disable_sleeptimer_label">Disable sleep timer</string>
-    <string name="enter_time_here_label">Enter time</string>
-    <string name="sleep_timer_label">Sleep timer</string>
-    <string name="time_left_label">Time left:\u0020</string>
-    <string name="time_dialog_invalid_input">Invalid input, time has to be an integer</string>
+    <string name="set_sleeptimer_label">Imposta il timer di attesa</string>
+    <string name="disable_sleeptimer_label">Disabilita il timer di attesa</string>
+    <string name="enter_time_here_label">Inserisci il tempo</string>
+    <string name="sleep_timer_label">Timer di attesa</string>
+    <string name="time_left_label">Tempo rimasto:\u0020</string>
+    <string name="time_dialog_invalid_input">Input non valido, il tempo deve essere un intero</string>
 
 
     <!-- Content descriptions for image buttons -->
-    <string name="show_chapters_label">Show chapters</string>
-    <string name="show_shownotes_label">Show shownotes</string>
-    <string name="show_cover_label">Show picture</string>
-    <string name="rewind_label">Rewind</string>
-    <string name="fast_forward_label">Fast forward</string>
-    <string name="sleep_label">Sleep</string>
+    <string name="show_chapters_label">Mostra i capitoli</string>
+    <string name="show_shownotes_label">Mostre le note dell'episodio</string>
+    <string name="show_cover_label">Mostra l'immagine</string>
+    <string name="rewind_label">Riavvolgi</string>
+    <string name="fast_forward_label">Avanti veloce</string>
+    <string name="sleep_label">Pausa</string>
     <string name="media_type_audio_label">Audio</string>
     <string name="media_type_video_label">Video</string>
-    <string name="navigate_upwards_label">Navigate upwards</string>
-    <string name="butAction_label">More actions</string>
-    <string name="status_playing_label">Episode is being played</string>
-    <string name="status_downloading_label">Episode is being downloaded</string>
-    <string name="status_downloaded_label">Episode is downloaded</string>
-    <string name="status_not_downloaded_label">Episode has not been downloaded yet</string>
-    <string name="status_unread_label">Item is new</string>
-    <string name="in_queue_label">Episode is in the queue</string>
-    <string name="new_episodes_count_label">Number of new episodes</string>
-    <string name="in_progress_episodes_count_label">Number of episodes you have started listening to</string>
+    <string name="navigate_upwards_label">Naviga in alto</string>
+    <string name="butAction_label">Altre azioni</string>
+    <string name="status_playing_label">L'episodio è in riproduzione</string>
+    <string name="status_downloading_label">L'episodio è in scaricamento</string>
+    <string name="status_downloaded_label">L'episodio è stato scaricato</string>
+    <string name="status_not_downloaded_label">L'episodio non è stato ancora scaricato</string>
+    <string name="status_unread_label">L'elemento è nuovo</string>
+    <string name="in_queue_label">L'episodio è in coda</string>
+    <string name="new_episodes_count_label">Numero di nuovi episodi</string>
+    <string name="in_progress_episodes_count_label">Numero di episodi che hai iniziato ad ascoltare</string>
 
     <!-- App initializer -->
-    <string name="storage_access_failed">Storage access failed</string>
-    <string name="init_error_label">Initialization error</string>
-    <string name="init_error_msg_prefix">Error happened during initialization:</string>
-    <string name="init_error_detail">Make sure that you have a working internet connection or try again later.</string>
-    <string name="try_again_label">Try again</string>
+    <string name="storage_access_failed">Accesso alla memoria fallito</string>
+    <string name="init_error_label">Errore di inizializzazione</string>
+    <string name="init_error_msg_prefix">Si è verificato un errore durante l'inizializzazione:</string>
+    <string name="init_error_detail">Assicurati di avere una connessione internet funzionante o riprova più tardi.</string>
+    <string name="try_again_label">Prova ancora</string>
 
 
-    <string name="episode_dialog_downloading_msg">This episode is currently being downloaded.</string>
-    <string name="episode_dialog_not_downloaded_msg">This episode has not been downloaded yet.</string>
-    <string name="episode_dialog_stream">Play immediately</string>
+    <string name="episode_dialog_downloading_msg">Questo episodio è attualmente in scaricamento.</string>
+    <string name="episode_dialog_not_downloaded_msg">Questo episodio non è stato ancora scaricato.</string>
+    <string name="episode_dialog_stream">Riproduci immediatamente</string>
 
 
     <!-- SPA-Util strings -->
-    <string name="spa_ask_installation_dialog_title">Install podcatcher?</string>
-    <string name="spa_ask_installation_dialog_msg">It looks like you have installed multiple apps to listen to more than one podcast. Instead of having several app for listening to podcasts installed on your device, you can also install one univseral podcatcher to manage all of your podcast subscriptions. Would you like to install a podcatcher now?</string>
-    <string name="spa_ask_installation_dialog_accept">Install podcatcher</string>
-    <string name="spa_ask_installation_dialog_deny">Not install podcatcher</string>
+    <string name="spa_ask_installation_dialog_title">Installa il podcatcher?</string>
+    <string name="spa_ask_installation_dialog_msg">Risulta che hai installato diverse app per ascoltare più di un podcast. Invece di avere diverse applicazioni per ascoltare i podcast installate sul tuo dispositivo, puoi anche installare un podcatcher universale per gestire tutte le tue iscrizioni ai podcast. Vuoi installare un podcatcher ora?</string>
+    <string name="spa_ask_installation_dialog_accept">Installa un podcatcher</string>
+    <string name="spa_ask_installation_dialog_deny">Non installare un podcatcher</string>
 
 </resources>
