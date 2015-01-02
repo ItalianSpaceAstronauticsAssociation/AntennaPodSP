@@ -7,8 +7,8 @@
     <!-- Activitiy titles -->
     <string name="app_name">AstronautiCAST</string>
     <string name="init_label">Inizializzazione</string>
-    <string name="downloads_label">Scaricamenti</string>
-    <string name="cancel_download_label">Annulla gli scaricamenti</string>
+    <string name="downloads_label">Download</string>
+    <string name="cancel_download_label">Annulla il download</string>
     <string name="about_label">Info</string>
 
     <!-- Webview actions -->
@@ -27,7 +27,7 @@
     <string name="error_label">Errore</string>
     <string name="error_msg_prefix">Si è verificato un errore:</string>
     <string name="refresh_label">Ricarica</string>
-    <string name="external_storage_error_msg">Nessun dispositivo esterno rilevato</string>
+    <string name="external_storage_error_msg">Nessun dispositivo di archiviazione esterno rilevato. Assicurati che il dispositivo esterno sia collegato in modo che l\'applicazione possa funzionare correttamente.</string>
     <string name="chapters_label">Capitoli</string>
     <string name="shownotes_label">Note dell\'episodio</string>
     <string name="description_label">Descrizione</string>
@@ -44,8 +44,8 @@
     <string name="retry_label">Riprova</string>
 
     <!-- Actions on feeds -->
-    <string name="share_link_label">Condividi il link al sito</string>
-    <string name="share_source_label">Condividi il link al feed</string>
+    <string name="share_link_label">Condividi il link del sito</string>
+    <string name="share_source_label">Condividi il link del feed</string>
 
     <!-- actions on feeditems -->
     <string name="download_label">Scarica</string>
@@ -57,10 +57,10 @@
     <string name="visit_website_label">Visita il Sito</string>
 
     <!-- Download messages and labels -->
-    <string name="download_successful">Scaricamento riuscito</string>
-    <string name="download_failed">Scaricamento fallito</string>
-    <string name="download_pending">In attesa dello scaricamento</string>
-    <string name="download_running">Scaricamento in corso</string>
+    <string name="download_successful">Download riuscito</string>
+    <string name="download_failed">Download fallito</string>
+    <string name="download_pending">In attesa del download</string>
+    <string name="download_running">Download in corso</string>
     <string name="download_error_device_not_found">Dispositivo di memoria non trovato</string>
     <string name="download_error_insufficient_space">Spazio insufficiente</string>
     <string name="download_error_file_error">Errore del file</string>
@@ -70,16 +70,16 @@
     <string name="download_error_unsupported_type">Tipo di feed non supportato</string>
     <string name="download_error_connection_error">Errore di connessione</string>
     <string name="download_error_unknown_host">Server sconosciuto</string>
-    <string name="cancel_all_downloads_label">Annulla tutti gli scaricamenti</string>
-    <string name="download_cancelled_msg">Scaricamento annullato</string>
-    <string name="download_report_title">Scaricamento completato</string>
+    <string name="cancel_all_downloads_label">Annulla tutti i download</string>
+    <string name="download_cancelled_msg">Download annullato</string>
+    <string name="download_report_title">Download completato</string>
     <string name="download_error_malformed_url">URL non valido</string>
     <string name="download_error_io_error">Errore di IO</string>
     <string name="download_error_request_error">Errore nella richiesta</string>
     <string name="download_error_db_access">Errore di accesso al database</string>
-    <string name="downloads_left">\u0020Scaricamenti rimasti</string>
-    <string name="download_notification_title">Scaricamento dei dati del podcast</string>
-    <string name="download_report_content">%1$d scaricamenti completati, %2$d falliti</string>
+    <string name="downloads_left">\u0020Download in attesa</string>
+    <string name="download_notification_title">Download del podcast</string>
+    <string name="download_report_content">%1$d download completati, %2$d falliti</string>
     <string name="download_log_title_unknown">Titolo sconosciuto</string>
     <string name="download_type_feed">Feed</string>
     <string name="download_type_media">File media</string>
@@ -92,28 +92,28 @@
     <string name="player_preparing_msg">Preparazione</string>
     <string name="player_ready_msg">Pronto</string>
     <string name="player_seeking_msg">Ricerca</string>
-    <string name="playback_error_server_died">Il server è morto</string>
+    <string name="playback_error_server_died">Il server non è raggiungibile</string>
     <string name="playback_error_unknown">Errore sconosciuto</string>
     <string name="no_media_playing_label">Nessun contenuto in riproduzione</string>
     <string name="position_default_label">00:00:00</string>
     <string name="player_buffering_msg">Buffering</string>
     <string name="playbackservice_notification_title">Riproduzione del podcast</string>
-    <string name="playbackservice_notification_content">Tocca qui per altre info</string>
+    <string name="playbackservice_notification_content">Tocca qui per altre informazioni</string>
 
     <!-- Sleep timer -->
-    <string name="set_sleeptimer_label">Imposta il timer di attesa</string>
-    <string name="disable_sleeptimer_label">Disabilita il timer di attesa</string>
+    <string name="set_sleeptimer_label">Imposta il timer</string>
+    <string name="disable_sleeptimer_label">Disabilita il timer per la pausa</string>
     <string name="enter_time_here_label">Inserisci il tempo</string>
-    <string name="sleep_timer_label">Timer di attesa</string>
+    <string name="sleep_timer_label">Timer per la pausa</string>
     <string name="time_left_label">Tempo rimasto:\u0020</string>
-    <string name="time_dialog_invalid_input">Input non valido, il tempo deve essere un intero</string>
+    <string name="time_dialog_invalid_input">Input non valido, il valore deve essere un intero</string>
 
 
     <!-- Content descriptions for image buttons -->
     <string name="show_chapters_label">Mostra i capitoli</string>
     <string name="show_shownotes_label">Mostra le note dell\'episodio</string>
     <string name="show_cover_label">Mostra l\'immagine</string>
-    <string name="rewind_label">Riavvolgi</string>
+    <string name="rewind_label">Indietro</string>
     <string name="fast_forward_label">Avanti veloce</string>
     <string name="sleep_label">Pausa</string>
     <string name="media_type_audio_label">Audio</string>
@@ -124,7 +124,7 @@
     <string name="status_downloading_label">L\'episodio è in scaricamento</string>
     <string name="status_downloaded_label">L\'episodio è stato scaricato</string>
     <string name="status_not_downloaded_label">L\'episodio non è stato ancora scaricato</string>
-    <string name="status_unread_label">L\'elemento è nuovo</string>
+    <string name="status_unread_label">Nuovo elemento</string>
     <string name="in_queue_label">L\'episodio è in coda</string>
     <string name="new_episodes_count_label">Numero di nuovi episodi</string>
     <string name="in_progress_episodes_count_label">Numero di episodi che hai iniziato ad ascoltare</string>
